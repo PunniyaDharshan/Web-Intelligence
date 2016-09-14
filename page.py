@@ -1,6 +1,6 @@
 import numpy as np
 import csv
-file=open('E:/python/page rank/page_rank.csv')
+file=open('<Local Path>/<filename>.csv')
 reader=csv.reader(file)
 data=[]
 rank=list()
